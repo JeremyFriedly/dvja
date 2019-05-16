@@ -1,0 +1,5 @@
+
+’"squid:ClassVariableVisibilityCheck"_Make SESSION_USER_HANDLE a static final constant or non-public and provide accessors if needed.(Ù…Ð—üÿÿÿÿ
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(Ø¡²›ÿÿÿÿÿ
+zsquid:S3008"^Rename this field "SESSION_USER_HANDLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù…Ð—üÿÿÿÿ
+Usquid:S1444"9Make this "public static SESSION_USER_HANDLE" field final(Ù…Ð—üÿÿÿÿ

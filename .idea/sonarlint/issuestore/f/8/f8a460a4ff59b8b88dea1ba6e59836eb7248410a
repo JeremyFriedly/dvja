@@ -1,0 +1,6 @@
+
+jsquid:UselessImportCheck"ARemove this unused import 'org.springframework.util.DigestUtils'.(–¤Ìëÿÿÿÿÿ
+~squid:S1488*"bImmediately return this expression instead of assigning it to the temporary variable "resultList".(Ñµ´ùıÿÿÿÿ
+nsquid:S20770"RUse a variable binding mechanism to construct this query instead of concatenation.(Şãñßúÿÿÿÿ
+isquid:UselessImportCheck"@Remove this unused import 'org.apache.commons.lang.StringUtils'.(Ö¥¬øÿÿÿÿ
+~squid:S14881"bImmediately return this expression instead of assigning it to the temporary variable "resultList".(Ñµ´ùıÿÿÿÿ
